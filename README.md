@@ -10,4 +10,4 @@
 
 [instargam]: https://www.instagram.com/volychev_kirill/
 [spotify]: https://open.spotify.com/user/knlkwfoqdfnpu503dsjy0sskv
-[minecraft]: mine.ly/_LuK__.3
+[minecraft]: https://ru.namemc.com/profile/_LuK__.3
