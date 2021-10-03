@@ -3,7 +3,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuK050&hide_title=true&count_private=true&theme=github_dark&hide_border=true&layout=compact)
 <br>
 ложь, у меня пайтон весь в закрытых
-ODUwODEzMDAzMTQxODczNjc0.YLvLWw.1jrx4pDFz4L6wFY8KC8Na0_zQhU
 <br>
 
 # Профили
