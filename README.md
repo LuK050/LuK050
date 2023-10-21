@@ -1,5 +1,5 @@
 <center>
-    <a href="https://llukk.carrd.co/" target="_blank">
+    <a href="https://bento.me/lluk" target="_blank">
         <img src="https://llukk.vercel.app/api?username=LuK050&count_private=true&border_radius=6&show_icons=true&theme=dark&text_color=ededed&icon_color=ededed&hide_border=true&disable_animations=true&line_height=27&hide_title=true" />
     </a>
     <a href="https://llukk.carrd.co/" target="_blank">
